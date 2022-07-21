@@ -483,6 +483,11 @@ button {
   overflow: hidden;
 }
 
+.botones-card {
+  align-items: center;
+  flex-direction: column;
+}
+
 /* Footer */
 
 .footer-20192 {
